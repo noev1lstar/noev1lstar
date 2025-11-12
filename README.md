@@ -5,3 +5,5 @@
 <p align="center">
 <img src="soufpark.png">
 </p>
+<p>nice links: <a href="https://lyra.horse/antonymph/" target="_blank" rel="noopener noreferrer">antonymph</a>; <a href="https://jspaint.app" target="_blank" rel="noopener noreferrer">jspaint</a>; <a href="https://make.bitsy.org/" target="_blank" rel="noopener noreferrer">bitsy</a></p>
+<p>nice homestuck links: <a href="https://www.spicyyeti.com/stupid/jaderoute.html?episode=1_start&page=jr1.png" target="_blank" rel="noopener noreferrer">jaderoute</a>; <a href="https://mspfa.com/?s=32792&p=1" target="_blank" rel="noopener noreferrer">kittyquest</a></p>
